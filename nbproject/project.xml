@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>dsPIC33EP_TimerProg</name>
+            <name>dsPIC33EP_BH1750</name>
             <creation-uuid>3f4193d0-8bc9-44f5-9732-dbbfdc3ecc6e</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
